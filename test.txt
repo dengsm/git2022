@@ -2,3 +2,4 @@
 c
 使用restore命令，是否会撤销stage区的修改
 使用restore命令，是否会撤销stage区的修改
+1
